@@ -1,2 +1,15 @@
 "Fuel":
   url: https://www.sciencedirect.com/journal/fuel
+  color: "#ff521d"
+
+"ACS Omega":
+  url: https://pubs.acs.org/journal/acsodf
+  color: "#0a3d9a"
+
+"JMSE":
+  url: https://www.mdpi.com/journal/jmse
+  color: "#739d8e"
+
+"I&EC":
+  url: https://pubs.acs.org/journal/iecred
+  color: "#0a3d9a"

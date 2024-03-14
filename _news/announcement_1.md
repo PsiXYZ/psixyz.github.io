@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Got my Ph.D.
+Obtained my PhD
